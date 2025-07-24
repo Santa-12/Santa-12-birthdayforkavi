@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b7a54a2b.css",
+    "main.js": "/static/js/main.64812f01.js",
+    "static/media/birthday.mp4": "/static/media/birthday.e7ed2f54d66274e171ce.mp4",
+    "static/media/samamusic.mp3": "/static/media/samamusic.152be5d4db44e6744b7e.mp3",
+    "static/media/kaviya.jpg": "/static/media/kaviya.9bf537186920e55e55b6.jpg",
+    "index.html": "/index.html",
+    "main.b7a54a2b.css.map": "/static/css/main.b7a54a2b.css.map",
+    "main.64812f01.js.map": "/static/js/main.64812f01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7a54a2b.css",
+    "static/js/main.64812f01.js"
+  ]
+}
